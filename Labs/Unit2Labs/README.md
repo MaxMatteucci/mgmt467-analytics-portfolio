@@ -1,4 +1,4 @@
-# 🎬 Data Quality — Unit 2 Lab
+# 🎬 Data Quality — Unit 2 Labs
 
 **Date:** October 23, 2025  
 **Author:** Max Matteucci  
@@ -12,7 +12,7 @@ Lab 5 Part 2: (https://drive.google.com/file/d/1R3Zj4V_nzoxTP-q1Dkxs5iIq01IKNb4d
 Lab 5 Part 3: (https://drive.google.com/file/d/16zpjB3_p-XceZEfosLwK3v_bzxdaDMnZ/view?usp=sharing)  
 Lab 6: (https://drive.google.com/file/d/1GfQwX0TjoK29xSDVskmFLDvdbup9Bjb9/view?usp=sharing)
 
-
+(I also included BrightSpace labs in the similarly named folder, as those instructions were different and I did not want to miss anything.)
 ---
 
 ## 🧠 What & Why
