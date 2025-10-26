@@ -1,4 +1,4 @@
-# 🎬 Netflix Data Quality — Unit 2 Lab
+# 🎬 Data Quality — Unit 2 Lab
 
 **Date:** October 23, 2025  
 **Author:** Max Matteucci  
