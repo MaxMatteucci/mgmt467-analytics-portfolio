@@ -5,6 +5,16 @@
 
 ---
 
+## 🧩 Colab Notebooks (In case preview is not working.)
+Lab 4: ((https://drive.google.com/file/d/1JFTkBlylTe7CdYWk97OoP8814VW4thyx/view?usp=sharing))  
+Lab 5 Part 1: (https://drive.google.com/file/d/1yGvaKl-4k4mfKe6wcx2Hyx97x5umwUNq/view?usp=sharing)  
+Lab 5 Part 2: (https://drive.google.com/file/d/1R3Zj4V_nzoxTP-q1Dkxs5iIq01IKNb4d/view?usp=sharing)  
+Lab 5 Part 3: (https://drive.google.com/file/d/16zpjB3_p-XceZEfosLwK3v_bzxdaDMnZ/view?usp=sharing)  
+Lab 6: (https://drive.google.com/file/d/1GfQwX0TjoK29xSDVskmFLDvdbup9Bjb9/view?usp=sharing)
+
+
+---
+
 ## 🧠 What & Why
 This project cleans and validates the `netflix` dataset hosted in Google BigQuery.  
 It includes row-count verification, missingness checks, deduplication, outlier capping, and anomaly flag creation.  
