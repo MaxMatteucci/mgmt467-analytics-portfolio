@@ -6,6 +6,8 @@
 ---
 
 ## 🧩 Colab Notebooks (In case preview is not working.)
+-All Colab files run, but when uploading to GitHub, I am having issues getting it to display.  It also was not displaying on the Professor's GitHub, so it's either on my side or a glitch in Colab.  I also included raw colab links below.
+
 Lab 4: ((https://drive.google.com/file/d/1JFTkBlylTe7CdYWk97OoP8814VW4thyx/view?usp=sharing))  
 Lab 5 Part 1: (https://drive.google.com/file/d/1yGvaKl-4k4mfKe6wcx2Hyx97x5umwUNq/view?usp=sharing)  
 Lab 5 Part 2: (https://drive.google.com/file/d/1R3Zj4V_nzoxTP-q1Dkxs5iIq01IKNb4d/view?usp=sharing)  
