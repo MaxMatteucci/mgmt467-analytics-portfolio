@@ -42,3 +42,17 @@ All queries are designed for **reproducibility** so others can rerun and audit t
 | search_logs | 12,000 |
 | recommendation_logs | 5,000 |
 | movies | 3,120 |
+
+Comprehensive Reflection — Labs 1–3
+
+Lab 1 — Kaggle → GCS → BigQuery → Data Quality
+This lab built the foundation for working in the Google Cloud ecosystem. I learned how to authenticate securely, manage Kaggle API keys, and stage datasets in GCS to ensure reproducibility and version control. Loading data into BigQuery with verification steps made me appreciate the importance of clean pipelines and proper project configuration. The data quality profiling section (missingness, duplicates, outliers) demonstrated how early data checks prevent costly downstream errors in analytics or modeling.
+
+Lab 2 — Churn Modeling & Feature Engineering (BQML)
+This lab transitioned from raw data to predictive modeling. I learned how to structure feature engineering workflows, create meaningful predictors, and run BigQueryML classification models efficiently in SQL. Experimenting with variable transformations and balance checks helped me understand how to improve model performance and interpretability. The integration of engineering, modeling, and evaluation steps in one cloud environment reinforced the importance of scalability and automation in production-ready analytics.
+
+Lab 3 — Logistic Regression & Model Interpretation (BQML)
+In the final lab, I focused on applying and interpreting logistic regression models in BigQueryML. I explored coefficient meaning, model fit metrics (AUC, precision, recall), and the practical implications of those values for decision-making. Seeing how small feature changes affected model accuracy helped strengthen my intuition for modeling tradeoffs. This lab tied together the previous two by emphasizing statistical rigor and explainability alongside cloud efficiency.
+
+Overall Summary
+Together, these labs built a complete cloud analytics pipeline: ingesting and staging data (Lab 1), engineering and modeling features (Lab 2), and interpreting and evaluating models (Lab 3). I now understand both the technical and conceptual flow from data acquisition to business insight, and how each stage connects in a reproducible, auditable way within Google Cloud.
