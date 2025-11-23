@@ -1,3 +1,6 @@
+**NOTE: I uploaded this in PDF format as well as markdown.  I highly recommend you load this in PDF format, as it looks much cleaner and the images rendered better.**
+
+
 Max Matteucci, Ethan Lebon, Ian Hedges, Caleb Brunton
 
 Team Weather Trends & Prediction
